@@ -1,0 +1,59 @@
+Lab 01
+Text Preprocessing and Spelling Correction
+
+* Regular Expressions and Text Cleaning
+* Tokenization and Stop Word Removal
+* Stemming
+* Lemmatization
+* Edit Distance and Spelling Correction
+
+Lab 02
+Text Representation and N-Gram Language Modeling
+
+* Bag of Words (BoW)
+* TF-IDF
+* N-Gram Language Modeling
+* Maximum Likelihood Estimation (MLE)
+* Shannon's Guessing Game
+* Text Generation
+
+Lab 03
+Word Embeddings and Text Classification
+
+* Word2Vec (Skip-Gram)
+* One-Hot Encoding
+* Cosine Similarity and Word Analogies
+* Naive Bayes Classification
+* Laplace Smoothing
+* Logistic Regression
+* Mean and TF-IDF Weighted Embeddings
+* Anagram Dilemma / Word Order Limitation
+
+Lab 04
+RNN, LSTM and Sequence-to-Sequence Models
+
+* PyTorch Fundamentals
+* Pretrained Word Embeddings
+* Vanilla RNN
+* Bidirectional RNN
+* LSTM
+* Bidirectional LSTM (BiLSTM)
+* Sequence Classification
+* POS Tagging / Sequence Labeling
+* Language Modeling and Text Generation
+* Seq2Seq Encoder-Decoder
+* Teacher Forcing
+* Machine Translation
+
+Lab 05
+Transformer and Self-Attention
+
+* Self-Attention
+* Scaled Dot-Product Attention
+* Multi-Head Attention
+* Positional Encoding
+* Transformer Encoder
+* Padding Mask
+* Mean Pooling
+* Transformer-based Sequence Classification
+* Training and Inference
